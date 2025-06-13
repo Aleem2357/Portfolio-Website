@@ -1,10 +1,11 @@
 {
   "name": "portfolio-website",
   "version": "1.0.0",
-  "description": "Static portfolio website",
   "scripts": {
-    "lint:html": "htmlhint src/**/*.html",
-    "lint:css": "stylelint \"**/*.css\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {}
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
